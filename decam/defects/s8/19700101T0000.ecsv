@@ -1,0 +1,43 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - name: x0
+#   unit: pix
+#   datatype: int32
+#   description: X coordinate of bottom left corner of box
+# - name: y0
+#   unit: pix
+#   datatype: int32
+#   description: Y coordinate of bottom left corner of box
+# - name: width
+#   unit: pix
+#   datatype: int32
+#   description: X extent of box
+# - name: height
+#   unit: pix
+#   datatype: int32
+#   description: Y extent of box
+# meta: !!omap
+# - OBSTYPE: defects
+# - INSTRUME: decam
+# - DETECTOR: 19
+# - CALIBDATE: '1970-01-01T00:00:00'
+# - CALIB_ID: detector=19 calibDate=1970-01-01T00:00:00 ccd=19 ccdnum=19 filter=None
+# - DEFECTS_SCHEMA: Simple
+# - DEFECTS_SCHEMA_VERSION: 1
+# - DATE: '2019-05-16T20:14:38.801118'
+# - CALIB_CREATION_DATE: '2019-05-16'
+# - CALIB_CREATION_TIME: '20:14:38'
+# schema: astropy-2.0
+x0 y0 width height
+0 0 2048 15
+0 15 15 4081
+2033 15 15 4081
+1976 4078 4 2
+1977 4080 2 16
+15 4081 1962 15
+1979 4081 54 15
+1263 305 2 2
+165 1079 1 1
+321 1081 1 1
+1986 3820 1 1

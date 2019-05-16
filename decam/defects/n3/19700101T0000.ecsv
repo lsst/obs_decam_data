@@ -1,0 +1,109 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - name: x0
+#   unit: pix
+#   datatype: int32
+#   description: X coordinate of bottom left corner of box
+# - name: y0
+#   unit: pix
+#   datatype: int32
+#   description: Y coordinate of bottom left corner of box
+# - name: width
+#   unit: pix
+#   datatype: int32
+#   description: X extent of box
+# - name: height
+#   unit: pix
+#   datatype: int32
+#   description: Y extent of box
+# meta: !!omap
+# - OBSTYPE: defects
+# - INSTRUME: decam
+# - DETECTOR: 34
+# - CALIBDATE: '1970-01-01T00:00:00'
+# - CALIB_ID: detector=34 calibDate=1970-01-01T00:00:00 ccd=34 ccdnum=34 filter=None
+# - DEFECTS_SCHEMA: Simple
+# - DEFECTS_SCHEMA_VERSION: 1
+# - DATE: '2019-05-16T20:14:34.581747'
+# - CALIB_CREATION_DATE: '2019-05-16'
+# - CALIB_CREATION_TIME: '20:14:34'
+# schema: astropy-2.0
+x0 y0 width height
+0 0 2048 15
+0 15 15 4081
+2033 15 15 4081
+860 3881 3 11
+861 3892 1 204
+15 4081 846 15
+862 4081 1171 15
+861 46 1 1
+861 106 1 1
+861 166 1 1
+1325 190 1 1
+861 226 1 1
+861 286 1 1
+861 346 1 1
+861 406 1 1
+678 460 1 1
+679 461 1 1
+861 466 1 1
+861 526 1 1
+861 586 1 1
+861 646 1 1
+861 706 1 1
+861 766 1 1
+861 826 1 1
+861 886 1 1
+861 946 1 1
+861 1006 1 1
+861 1066 1 1
+861 1126 1 1
+861 1186 1 1
+861 1246 1 1
+861 1306 1 1
+861 1366 1 1
+861 1426 1 1
+861 1486 1 1
+861 1546 1 1
+861 1606 1 1
+861 1666 1 1
+861 1726 1 1
+861 1786 1 1
+861 1846 1 1
+861 1906 1 1
+861 1966 1 1
+861 2026 1 1
+861 2086 1 1
+861 2146 1 1
+861 2206 1 1
+861 2266 1 1
+861 2326 1 1
+861 2386 1 1
+861 2446 1 1
+861 2506 1 1
+861 2566 1 1
+861 2626 1 1
+861 2686 1 1
+1390 2714 1 1
+861 2746 1 1
+861 2806 1 1
+861 2866 1 1
+861 2926 1 1
+861 2986 1 1
+861 3046 1 1
+861 3106 1 1
+861 3166 1 1
+861 3226 1 1
+861 3286 1 1
+861 3346 1 1
+861 3406 1 1
+861 3466 1 1
+1430 3468 1 2
+861 3526 1 1
+310 3528 2 1
+861 3586 1 1
+861 3646 1 1
+861 3706 1 1
+861 3766 1 1
+861 3826 1 1
