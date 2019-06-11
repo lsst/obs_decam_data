@@ -1,13 +1,10 @@
-# obs_decam_data
-Repository to hold data related to the obs_decam package.
+# `obs_decam_data`
+Repository to hold data related to the `obs_decam` package.
 
 ## Defects
-These defects were written using files retrieved on 16 May 2019 from: ftp://ftp.noao.edu/pub/valdes/DECamCPCalFiles150123/
-The files are:
-* `DECamMasterCal_56475-bpm.tgz`
-* `DECamMasterCal_56876-bpm.tgz`
+These defects were written using files accessed from `lsst_dev` on 11 June 2019 from: `/datasets/decam/_internal/calib/bpmDes/`.
 
-These tarballs contain one file per sensor in the focalplane.
+These directories contain one file per sensor in the focalplane.
 Each file has an ISO compliant timestamp in the filename.
 The timestamp is taken to be the `valid_start` time.
 
