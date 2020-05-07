@@ -1,0 +1,67 @@
+coeffs:
+- 0.0
+- -0.000614
+- 0.000157
+- 0.0
+crosstalkShape: !!python/tuple
+- 2
+- 2
+hasCrosstalk: true
+interChip:
+  S27:
+  - 0.0
+  - 7.09e-05
+  - 0.0
+  - 0.0
+  S30:
+  - 3.11e-05
+  - 0.0
+  - 0.0
+  - 6.03e-05
+metadata: !<lsst.daf.base.PropertyList>
+- - OBSTYPE
+  - String
+  - CROSSTALK
+  - ''
+- - INSTRUME
+  - String
+  - DECam
+  - ''
+- - DETECTOR_NAME
+  - String
+  - S31
+  - ''
+- - DETECTOR_SERIAL
+  - Int
+  - 3
+  - ''
+- - DETECTOR
+  - Int
+  - 3
+  - ''
+- - CROSSTALK_SCHEMA
+  - String
+  - Gen3 Crosstalk
+  - ''
+- - CROSSTALK_VERSION
+  - Double
+  - 1.0
+  - ''
+- - HAS_CROSSTALK
+  - Bool
+  - true
+  - ''
+- - NAMP
+  - Int
+  - 2
+  - ''
+- - CROSSTALK_SHAPE
+  - Int
+  - - 2
+    - 2
+  - ''
+- - CALIBDATE
+  - String
+  - '1970-01-01T00:00:00'
+  - ''
+nAmp: 2
